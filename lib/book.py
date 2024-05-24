@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 
-import ipdb
+
 
 class Book:
     def __init__(self, title, page_count):
@@ -35,4 +35,4 @@ class Book:
         print("Flipping the page...wow, you read fast!")
 
 
-ipdb.set_trace()
+
